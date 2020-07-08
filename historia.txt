@@ -7,4 +7,4 @@ Editanto el index
 Colaboradores
 
 1.- Francisco López -> header y footer
-2.- ...              -> contenido
+2.- Seani Developers -> contenido
