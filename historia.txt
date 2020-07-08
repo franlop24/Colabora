@@ -6,5 +6,5 @@ Editanto el index
 
 Colaboradores
 
-1.- Francisco López
-2.- ...
+1.- Francisco López -> header y footer
+2.- ...              -> contenido
