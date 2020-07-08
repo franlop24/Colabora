@@ -1,0 +1,10 @@
+Este es un proyecto para prueba de nuevos comandos de git
+
+se trata de una página hecha en bootstrap
+
+Editanto el index
+
+Colaboradores
+
+1.- Francisco López
+2.- ...
