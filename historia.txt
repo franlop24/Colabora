@@ -2,7 +2,7 @@ Este es un proyecto para prueba de nuevos comandos de git
 
 se trata de una página hecha en bootstrap
 
-Donde se utiliza un var-bar y un slider carousel
+Donde se utiliza un nav-bar, un slider carousel y una seccion de cards
 
 Editanto el index
 
