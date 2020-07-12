@@ -2,6 +2,8 @@ Este es un proyecto para prueba de nuevos comandos de git
 
 se trata de una página hecha en bootstrap
 
+Donde se utiliza un var-bar y un slider carousel
+
 Editanto el index
 
 Colaboradores
